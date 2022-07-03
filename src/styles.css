@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input{
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+input:focus{
+  background-color: lightblue;
+}
+
+button{
+  padding: 10px 15px;
+  color: white;
+  background-color: green;
+  border-radius: 10px;
+  border: 2px solid green;
+}
